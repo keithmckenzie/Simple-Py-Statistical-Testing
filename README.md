@@ -59,6 +59,8 @@ Follow the interactive menu to:
 
 3\. View comprehensive results with p-values and interpretations
 
+4\. Note that datasets do not save after you close the window, Save state will be implemented in the future.
+
 ## Dependencies
 
 If you have Python 3.8+, the build batch file will install
@@ -80,7 +82,7 @@ Website: <https://mckenzie.page>
 
 MIT License
 
-Copyright (c) 2025 Keith McKenzie
+Copyright (c) 2025 Keith Ngamphon McKenzie
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
